@@ -58,7 +58,7 @@ public class InfoView extends AppCompatActivity {
         Log.i("Info View","Setup Firebase database");
         //initialize the database and its reference
         mFirebaseDatabase = FirebaseDatabase.getInstance();
-        mDatabaseReference = mFirebaseDatabase.getReference().child("streets").child("NguyenLuongBang");
+        mDatabaseReference = mFirebaseDatabase.getReference().child("streets");
 
         //attach the listener
         attachDatabaseReadListener();
