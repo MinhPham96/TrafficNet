@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229546051953",
+    "firebase_url": "https://trafficnet-782ef.firebaseio.com",
+    "project_id": "trafficnet-782ef",
+    "storage_bucket": "trafficnet-782ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229546051953:android:f2e6ef11442f6a50",
+        "android_client_info": {
+          "package_name": "com.example.minh.trafficnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229546051953-bt22ch4eihlgn929jcpet78na221uju8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minh.trafficnet",
+            "certificate_hash": "7acc8f80d1afaa209d33088beafe749ec77d47d9"
+          }
+        },
+        {
+          "client_id": "229546051953-99km0080cfkaphjeea5f1ub0gg521fm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8o3NSkVtuvqkYnDyRWmlh8zGQN4xLSPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229546051953-99km0080cfkaphjeea5f1ub0gg521fm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
